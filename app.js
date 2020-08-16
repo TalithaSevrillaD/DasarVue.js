@@ -7,7 +7,7 @@
         <title>Hello world</title>
     </head>
     <body>
-        <div id="app">
+    
 <h1></h1>
         </div>
         <script src="app.js">
